@@ -2,9 +2,7 @@
 An open-source Windows optimizer made in MS VB 6.0
 
 # Folders
-src - VB source codes and stuff
-
-exe - Windows executable here
+Folders are arranged by their versions and also exe or src.
 
 # Contributions
 Contributions are welcome!
